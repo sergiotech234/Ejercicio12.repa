@@ -22,6 +22,7 @@ public class Main {
             }
             System.out.println();
         }
+
         // Suma de cada fila (nota dejar las mismas variables)
         System.out.println("\nSuma de cada fila: ");
     for (int fila = 0; fila < n; fila++) {
